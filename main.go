@@ -1,8 +1,8 @@
 package main
 
 import (
-	db "go-rest-api/DB"
 	"go-rest-api/controller"
+	"go-rest-api/db"
 	"go-rest-api/repository"
 	"go-rest-api/router"
 	"go-rest-api/usecase"
